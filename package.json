@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madhuri96/issue_tracker.git"
+    "url": "git+https://github.com/ankitaryan62/issue-tracker.git"
   },
   "author": "Madhuri Bansode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/madhuri96/issue_tracker/issues"
+    "url": "https://github.com/ankitaryan62/issue-tracker/issues"
   },
-  "homepage": "https://github.com/madhuri96/issue_tracker#readme",
+  "homepage": "https://github.com/ankitaryan62/issue-tracker#readme",
   "dependencies": {
     "config": "^3.3.8",
     "dotenv": "^16.0.3",
